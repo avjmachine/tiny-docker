@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Tiny Docker
 
 A step-by-step project to build a minimal container runtime in Go.
